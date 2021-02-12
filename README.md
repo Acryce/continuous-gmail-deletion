@@ -8,4 +8,4 @@ http://static.christianfarmer.org/continuous-gmail-deletion.png
 6. Enable continuous deletion by clicking the 'True' radio button
 7. Click 'Delete page'
 
-The trash contents will be deleted 1 page at a time until you click the 'False' radio button or the trash becomes fully empty
+The trash contents will be deleted 1 page at a time until the 'False' radio button is clicked or the trash becomes fully empty
