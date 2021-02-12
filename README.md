@@ -1,4 +1,4 @@
-# continuous-gmail-deletion
+# Continuous Gmail Deletion Tampermonkey Script
 
 1. Import the contents of the JS file into Tampermonkey
 2. Open the HTML version of Gmail (https://mail.google.com/mail/u/0/?ui=html)
