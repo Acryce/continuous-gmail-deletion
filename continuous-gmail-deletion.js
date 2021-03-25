@@ -32,6 +32,7 @@
         deletePage();
       } else {
         sessionStorage.setItem(CONTINUOUS_DELETION_KEY, 'false');
+        continuousFalse.checked = true;
       }
     }, 2000);
   }
